@@ -1,0 +1,10 @@
+.navbar-light{
+    background: #f6f5f5; 
+    border-bottom: 1px solid #ddd;
+}
+.breadcrumb {
+    background-color: transparent!important;
+}
+.bg-footer{
+    background: #f6f5f5; 
+}
